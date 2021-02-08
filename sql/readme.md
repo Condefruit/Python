@@ -22,4 +22,4 @@ CREATE TABLE UFC (
     )
 );
 ```
-<a href="satire_images/carlo2f.png"></a>
+<a href="Daniel_CHA.png"></a>
