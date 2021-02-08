@@ -1,6 +1,6 @@
 test markdown for sql
 
-'''
+```
 CREATE TABLE UFC (
     Figher_Name TEXT         NOT NULL,
     surname     TEXT,
@@ -19,4 +19,4 @@ CREATE TABLE UFC (
         Figher_Name
     )
 );
-'''
+```
