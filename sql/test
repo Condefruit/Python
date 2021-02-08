@@ -1,6 +1,6 @@
 test markdown for sql
 
-```
+```ruby
 CREATE TABLE UFC (
     Figher_Name TEXT         NOT NULL,
     surname     TEXT,
